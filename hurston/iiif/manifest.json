@@ -45,7 +45,40 @@
 					"Page 1"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"id": "https://tajahebram.github.io/te_digedition_2026//hurston/iiif/canvas/f000/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://tajahebram.github.io/te_digedition_2026//hurston/iiif/canvas/f000/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://tajahebram.github.io/te_digedition_2026//hurston/tei/text/f000.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://tajahebram.github.io/te_digedition_2026//hurston/iiif/canvas/f000"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://tajahebram.github.io/te_digedition_2026//hurston/iiif/canvas/f000/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://tajahebram.github.io/te_digedition_2026//hurston/html/text/f000.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://tajahebram.github.io/te_digedition_2026//hurston/iiif/canvas/f000"
+						}
+					]
+				}
+			]
 		},
 		{
 			"id": "https://tajahebram.github.io/te_digedition_2026//hurston/iiif/canvas/f001",
