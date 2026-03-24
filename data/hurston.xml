@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+          <fileDesc>
+              <titleStmt>
+                  <title>
+                      <!-- Your Title Here -->
+                  </title>
+              </titleStmt>
+              <publicationStmt>
+                  <p></p>
+              </publicationStmt>
+              <sourceDesc>
+                  <p></p>
+              </sourceDesc>
+          </fileDesc>
+      </teiHeader>
+
+      <facsimile sameAs="https://www.loc.gov/item/hurston000008/manifest.json">
+                    <surface xml:id="f000" ulx="0" uly="0" lrx="2622" lry="3402" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0001" ><label>Page 1</label><graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0001"/></surface>
+          <surface xml:id="f001" ulx="0" uly="0" lrx="2610" lry="3366" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0002" ><label>Page 2</label><graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0002"/></surface>
+          <surface xml:id="f002" ulx="0" uly="0" lrx="2616" lry="3366" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0003" ><label>Page 3</label><graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0003"/></surface>
+          <surface xml:id="f003" ulx="0" uly="0" lrx="2616" lry="3366" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0004" ><label>Page 4</label><graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0004"/></surface>
+          <surface xml:id="f004" ulx="0" uly="0" lrx="2616" lry="3384" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0005" ><label>Page 5</label><graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0005"/></surface>
+          <surface xml:id="f005" ulx="0" uly="0" lrx="2616" lry="3384" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0006" ><label>Page 6</label><graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0006"/></surface>
+          <surface xml:id="f006" ulx="0" uly="0" lrx="2616" lry="3372" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0007" ><label>Page 7</label><graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0007"/></surface>
+          <surface xml:id="f007" ulx="0" uly="0" lrx="2610" lry="3384" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0008" ><label>Page 8</label><graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0008"/></surface>
+          <surface xml:id="f008" ulx="0" uly="0" lrx="2610" lry="3378" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0009" ><label>Page 9</label><graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0009"/></surface>
+          <surface xml:id="f009" ulx="0" uly="0" lrx="2610" lry="3360" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0010" ><label>Page 10</label><graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0010"/></surface>
+          <surface xml:id="f010" ulx="0" uly="0" lrx="2616" lry="3354" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0011" ><label>Page 11</label><graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0011"/></surface>
+          <surface xml:id="f011" ulx="0" uly="0" lrx="2616" lry="3378" sameAs="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0012" ><label>Page 12</label><graphic mimeType="application/json" url="https://tile.loc.gov/image-services/iiif/service:mss:mhurston:mhurston-0107:0012"/></surface>
+
+      </facsimile>
+
+      <text xml:id="text">
+<body><div>
+    <pb facs="#f001" />
+<ab>
+<lb />[11390]
+</ab>
+<ab>
+<lb />Jul. 21, 1931
+</ab>
+<ab>
+<lb />&quot;WOOFING&quot;
+</ab>
+<ab>
+<lb />By
+</ab>
+<ab>
+<lb />ZORA Neale HURSTON
+</ab>
+<ab>
+<lb />43 W. 66th St.
+<lb />New York City
+</ab>
+
+<pb facs="#f002" />
+<ab>
+<lb />&quot;WOOFING&quot;
+</ab>
+<ab>
+<lb />TIME: Present.
+</ab>
+<ab>
+<lb />PLACE: Negro Street in Waycross, Ga.
+</ab>
+<ab>
+<lb />PERSONS: Loungers, two children, guitar players, women, band -
+</ab>
+<ab>
+<lb />SETTING: Porch and side walk, etc.
+</ab>
+<ab>
+<lb />ACTION: Thru the open window of &apos;one&apos; of the shacks a WOMAN is discovered ironing. A MAN is sitting on the floor of the porch asleep. She hums a bar or two, then comes to the window and calls to the man.
+</ab>
+<ab>
+<lb />Woman
+</ab>
+<ab>
+<lb />Good Black, why don&apos;t you git up from dere and carry dese white folks clothes home? You always want money but you wouldn&apos;t hit a lick at a snake!
+</ab>
+<ab>
+<lb />Man
+</ab>
+<ab>
+<lb />Aw, shut up woman. I&apos;m tired of hearin&apos; bout dem white folks clothes. I don&apos;t keer if dey never git &apos;em.
+</ab>
+<ab>
+<lb />Woman
+</ab>
+<ab>
+<lb />You better keer! Dese very clothes took and brought you out de crack. &apos;Cause de first time I saw you you was so hungry till you was walkin&apos; lap-legged. Man, you had de white-mouf, you was so hungry.
+</ab>
+<ab>
+<lb />(Enter another MAN leisurely.
+<lb />Good Black sees him and calls)
+</ab>
+<ab>
+<lb />Good Black
+</ab>
+<ab>
+<lb />Hey, Cliffert, where you headed for?
+</ab>
+<ab>
+<lb />Cliffert
+</ab>
+<ab>
+<lb />Oh, no where in particular.
+</ab>
+<ab>
+<lb />Good Black
+</ab>
+<ab>
+<lb />Come here then, fish, and lemme bend a checker game over yo&apos; head. Come on, youse my fish.
+</ab>
+
+<pb facs="#f003" />
+<ab>
+<lb />2.
+</ab>
+<ab>
+<lb />Cliffert
+</ab>
+<ab>
+<lb />(Comes to the porch and sits)
+</ab>
+<ab>
+<lb />Git de checkers and I&apos;ll have you any, some or none. I push a mean chuck-a-luck myself.
+</ab>
+<ab>
+<lb />Woman
+</ab>
+<ab>
+<lb />(Voice inside quarreling)
+</ab>
+<ab>
+<lb />Dress up and strut around! Yes! Play checkers? Yes! Eat! Yes! Work? No!!
+</ab>
+<ab>
+<lb />(The game starts. A period of silence in which they indicate their concentration by frowns, cautious moves, head scratching. GOOD BLACK is pointing his index finger over the board indicating moves. He wig-wags, starts to move, scratches his head thoroughly, changes his mind and fools around without moving)
+</ab>
+<ab>
+<lb />Cliffert
+</ab>
+<ab>
+<lb />Police! Police! Come here and make dis man move!
+</ab>
+<ab>
+<lb />Good Black
+</ab>
+<ab>
+<lb />Aw, I got plenty moves.
+</ab>
+<ab>
+<lb />(Scratches his head)
+</ab>
+<ab>
+<lb />Jus&apos; tryin&apos; to see which one I want to make. But when I do move, it&apos;s gointer be just too bad for you.
+</ab>
+<ab>
+<lb />(A guitar is heard off stage and Cliffert brightens. He cups his hand and calls)
+</ab>
+<ab>
+<lb />Cliffert
+</ab>
+<ab>
+<lb />Hey Lonnie! Come here! Ha, ha, ha! I got me a fish.
+</ab>
+<ab>
+<lb />(Enter LONNIE picking &quot;East Coast&quot; on his box and stands watching the game. He ceases to play as he stops walking)
+</ab>
+<ab>
+<lb />Ha, ha! You see ol&apos; Good Black goes for a hard guy. He tries to know more than a mule and a mule&apos;s head longer&apos;n his&apos;n. Ha, ha! I set a trap for him and he fell right in it. Trying to ride de britches! Now look at him.
+</ab>
+<ab>
+<lb />Good Black
+</ab>
+<ab>
+<lb />Aw, shut up! You tryin&apos; to show yo&apos; grandma how to milk ducks. You can&apos;t beat me playin&apos; no checkers.
+</ab>
+<ab>
+<lb />(Scratches his head again)
+</ab>
+<ab>
+<lb />Just watch me show my glory.
+</ab>
+
+<pb facs="#f004" />
+<ab>
+<lb />3.
+</ab>
+<ab>
+<lb />Woman
+</ab>
+<ab>
+<lb />(Leans out of window)
+<lb />Good Black! When you gointer come git dese clothes!
+<lb />(He does not answer, he is trying to concentrate)
+</ab>
+<ab>
+<lb />Lonnie
+</ab>
+<ab>
+<lb />You got him Cliffert. You got him in Louisville Loop. He&apos;s yo&apos; fish all right.
+</ab>
+<ab>
+<lb />Cliffert
+</ab>
+<ab>
+<lb />(Boastfully)
+<lb />Man, didn&apos;t I push a mean chuck-a-luck dat time! I&apos;m good, better, and best. Move. Man!
+<lb />(To Good Black)
+<lb />I tole you not to do it.
+</ab>
+<ab>
+<lb />Good Black
+</ab>
+<ab>
+<lb />All dat noise ain&apos;t playin&apos; checkers. You just wait till I make my move.
+</ab>
+<ab>
+<lb />Woman
+</ab>
+<ab>
+<lb />All right, now, Mr. Nappy-Chin! I don&apos;t want to have to call you no mo&apos; to come keer dese white folks clothes! I&apos;m tired of takin&apos; and takin&apos; affa you! My belly&apos;s full clear up to de neck. I don&apos;t need no lazy coon lak you nohow. I&apos;m a good woman, and I needs somebody dats gointer give aid and assistance.
+</ab>
+<ab>
+<lb />Good Black,
+</ab>
+<ab>
+<lb />Aw, go head on&apos;, woman, and leave me be! Every Saturday it&apos;s de same thing! Yo&apos; mouth exhausting like a automobile. You worse than &quot;cryin&apos; Emma&quot;. You kin whoop like de Seaboard and squall lak de Coast Line.
+</ab>
+<ab>
+<lb />(Taps his head)
+</ab>
+<ab>
+<lb />You ain&apos;t got all dat b&apos;long to you, and nothin&apos; dat b&apos;long to nobody&apos;s else. You better leave me &apos;lone before you make a bad man out of me. Fool wid me and I&apos;ll go git me somebody else. I&apos;m a much-right man.
+</ab>
+<ab>
+<lb />Woman
+</ab>
+<ab>
+<lb />Now you ain&apos;t no such right man neither. You didn&apos;t git me wid no saw-mill license - You went to de court house and paid a dollar and a half for me. Tain&apos;t no other woman got as much right to you as I got. De Man got to tell you youse divorced befo&apos; yo&apos; kin play dat much-right on me!
+</ab>
+<ab>
+<lb />Good Black
+</ab>
+<ab>
+<lb />De man don&apos;t have to tell me nothin&apos;! I got divorce in my heels.
+</ab>
+<ab>
+<lb />Woman
+</ab>
+<ab>
+<lb />You ain&apos;t de only one dat knows where de railroad track is, I done made up my mind, and I done promised Gabriel and a
+</ab>
+
+<pb facs="#f005" />
+<ab>
+<lb />
+</ab>
+
+<pb facs="#f006" />
+<ab>
+<lb />
+</ab>
+
+<pb facs="#f007" />
+<ab>
+<lb />
+</ab>
+
+<pb facs="#f008" />
+<ab>
+<lb />
+</ab>
+
+<pb facs="#f009" />
+<ab>
+<lb />
+</ab>
+
+<pb facs="#f010" />
+<ab>
+<lb />
+</ab>
+
+<pb facs="#f011" />
+<ab>
+<lb />
+</ab>
+
+<pb facs="#f012" />
+<ab>
+<lb />
+</ab>
+
+  </div></body>
+      </text>
+  </TEI>

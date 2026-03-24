@@ -1,7 +1,7 @@
 {
   "id": "ec",
-  "documentName": "Hamilton Letters",
-  "iiifManifest": "/te_digedition_2026/woofing/iiif/manifest.json",
+  "documentName": "Woofing by Zora Neale Hurston",
+  "iiifManifest": "/te_digedition_2026/hurston/iiif/manifest.json",
   "transcriptionTypes": {
     "text": "Transcription"
   },
