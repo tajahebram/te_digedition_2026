@@ -1,7 +1,7 @@
 {
   "id": "ec",
-  "documentName": "<Hamilton Letters>",
-  "iiifManifest": "/te_digedition_2026/<Hamilton>/iiif/manifest.json",
+  "documentName": "Hamilton Letters",
+  "iiifManifest": "/te_digedition_2026/woofing/iiif/manifest.json",
   "transcriptionTypes": {
     "text": "Transcription"
   },
